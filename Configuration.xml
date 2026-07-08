@@ -248,6 +248,8 @@
 			<Role>ПолныеПрава</Role>
 			<Role>Разработчик</Role>
 			<Role>Менеджер</Role>
+			<CommonModule>Пользователи</CommonModule>
+			<CommonModule>ПользователиКлиент</CommonModule>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
