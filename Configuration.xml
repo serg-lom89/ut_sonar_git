@@ -245,6 +245,9 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
+			<Role>ПолныеПрава</Role>
+			<Role>Разработчик</Role>
+			<Role>Менеджер</Role>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>
