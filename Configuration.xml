@@ -252,6 +252,7 @@
 			<CommonModule>Пользователи</CommonModule>
 			<CommonModule>ПользователиКлиент</CommonModule>
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
+			<Catalog>Номенклатура</Catalog>
 			<DataProcessor>ПоискДанныхДляНалоговой</DataProcessor>
 		</ChildObjects>
 	</Configuration>
