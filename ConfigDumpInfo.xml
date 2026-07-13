@@ -9,8 +9,8 @@
 		<Metadata name="CommonModule.ПользователиКлиент.Module" id="fb7f4d26-d967-406e-b287-be58d114c221.0" configVersion="7756409e89f92940ab6533795501643c00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="0978afc1-3892-4559-9e0f-8fcbbd4e9a07" configVersion="9932f406222f18459fa8fb7c5fb39bb400000000"/>
 		<Metadata name="DataProcessor.ПоискДанныхДляНалоговой" id="e7dedd92-4939-4bc2-a750-53335d31f619" configVersion="b3f6c182b1f6e74088516ee2da4fe10f00000000"/>
-		<Metadata name="DataProcessor.ПоискДанныхДляНалоговой.Form.Форма" id="4f5a3e4c-dbc3-4ba7-8a26-00192fdb3732" configVersion="a373ae138bd1a44e8d8f806899bf3d2200000000"/>
-		<Metadata name="DataProcessor.ПоискДанныхДляНалоговой.Form.Форма.Form" id="4f5a3e4c-dbc3-4ba7-8a26-00192fdb3732.0" configVersion="993242dd286d8a4d8623dec121f9f79900000000"/>
+		<Metadata name="DataProcessor.ПоискДанныхДляНалоговой.Form.Форма" id="4f5a3e4c-dbc3-4ba7-8a26-00192fdb3732" configVersion="5cdca43ce32c9747a361f7d9debdb85600000000"/>
+		<Metadata name="DataProcessor.ПоискДанныхДляНалоговой.Form.Форма.Form" id="4f5a3e4c-dbc3-4ba7-8a26-00192fdb3732.0" configVersion="a0d6ceaffa6e7e44860f9a235860b20300000000"/>
 		<Metadata name="Language.Русский" id="c0c7685f-7feb-4089-ad94-2493459b8304" configVersion="25e4dd153a96324baac9af3e7508818100000000"/>
 		<Metadata name="Role.Менеджер" id="38e76665-ed55-4a3b-878f-60b9e39d6741" configVersion="0ff3f3dd2b6f2641823716b14c24490600000000"/>
 		<Metadata name="Role.Менеджер.Rights" id="38e76665-ed55-4a3b-878f-60b9e39d6741.0" configVersion="2d63b95b8407d14d866eaf33ae26135100000000"/>
