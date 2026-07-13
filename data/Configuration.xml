@@ -254,6 +254,7 @@
 			<XDTOPackage>ПакетXDTO1</XDTOPackage>
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
+			<Catalog>Упаковки</Catalog>
 			<DataProcessor>ПоискДанныхДляНалоговой</DataProcessor>
 		</ChildObjects>
 	</Configuration>
