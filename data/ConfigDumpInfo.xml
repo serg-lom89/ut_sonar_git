@@ -6,8 +6,8 @@
 		<Metadata name="Catalog.Номенклатура" id="7a59ca05-ea2c-403c-a10d-5a6d9a179ef2" configVersion="cf58c4994393164d83547eb1bdd02c0900000000"/>
 		<Metadata name="Catalog.Номенклатура.ObjectModule" id="7a59ca05-ea2c-403c-a10d-5a6d9a179ef2.0" configVersion="615b95629d63904d8665df36f4e1acdb00000000"/>
 		<Metadata name="Catalog.Упаковки" id="1f7d6ba5-2818-4153-bb5e-6d625cb0f080" configVersion="f17f9ea8fa7a924abb3fe50ca34ddab300000000"/>
-		<Metadata name="CommonModule.Пользователи" id="6ea2ca6f-3456-4336-903e-e2eb982e0bf9" configVersion="29bcb903fb430840b24ab18344cb0e4d00000000"/>
-		<Metadata name="CommonModule.Пользователи.Module" id="6ea2ca6f-3456-4336-903e-e2eb982e0bf9.0" configVersion="1310af0e6787224ab02063e6c04a68bd00000000"/>
+		<Metadata name="CommonModule.Пользователи" id="6ea2ca6f-3456-4336-903e-e2eb982e0bf9" configVersion="908c069043ce1e4b9a2183d13e8f5a2a00000000"/>
+		<Metadata name="CommonModule.Пользователи.Module" id="6ea2ca6f-3456-4336-903e-e2eb982e0bf9.0" configVersion="a253c1ec95cb0a4380bc303d8876481b00000000"/>
 		<Metadata name="CommonModule.ПользователиКлиент" id="fb7f4d26-d967-406e-b287-be58d114c221" configVersion="c4204020342e364591e6cb13cb6ed68200000000"/>
 		<Metadata name="CommonModule.ПользователиКлиент.Module" id="fb7f4d26-d967-406e-b287-be58d114c221.0" configVersion="7756409e89f92940ab6533795501643c00000000"/>
 		<Metadata name="Configuration.Конфигурация" id="0978afc1-3892-4559-9e0f-8fcbbd4e9a07" configVersion="aafab5ed288d1e4fbd9107899dcb632c00000000"/>
