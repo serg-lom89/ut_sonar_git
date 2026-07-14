@@ -255,6 +255,7 @@
 			<Catalog>Номенклатура</Catalog>
 			<Catalog>Контрагенты</Catalog>
 			<Catalog>Упаковки</Catalog>
+			<Catalog>Организации</Catalog>
 			<DataProcessor>ПоискДанныхДляНалоговой</DataProcessor>
 		</ChildObjects>
 	</Configuration>
